@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Lesson2Blyad.457668645.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\PTU\Програмування\Практика\Unity\Lesson2Blyad" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\EnemySpawnManager.cs" t="Include" />
+      <e p="Assets\GenerateBuffs.cs" t="Include" />
+      <e p="Assets\getExtraHP.cs" t="Include" />
+      <e p="Assets\Imported&amp;Downloaded" t="Include">
+        <e p="Particlecollection_Free samples" t="Include">
+          <e p="Plugins" t="Include">
+            <e p="Effect" t="Include">
+              <e p="Editor" t="Include">
+                <e p="EffectControllerInspector.cs" t="Include" />
+                <e p="EffectToolBar.cs" t="Include" />
+                <e p="RenderEffectInspector.cs" t="Include" />
+                <e p="ShaderCustomEditor" t="Include">
+                  <e p="ShaderMaterialsEditor.cs" t="Include" />
+                </e>
+                <e p="XUIUtils.cs" t="Include" />
+              </e>
+              <e p="Script" t="Include">
+                <e p="CameraTarget.cs" t="Include" />
+                <e p="EffectController.cs" t="Include" />
+                <e p="EffectDemo.cs" t="Include" />
+                <e p="EffectShaderPropertyStr.cs" t="Include" />
+                <e p="RenderEffect.cs" t="Include" />
+                <e p="TransformExtension.cs" t="Include" />
+              </e>
+              <e p="Shader" t="Include">
+                <e p="effect_distortion_mask.shader" t="Include" />
+                <e p="ParticleAddEffect.shader" t="Include" />
+                <e p="ParticleAddSoftEffect.shader" t="Include" />
+                <e p="ParticleBlendEffect.shader" t="Include" />
+                <e p="ParticlePremultiplyBlend.shader" t="Include" />
+                <e p="Toon Additive.shader" t="Include" />
+                <e p="Toon Blended Premmultiply.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="READ ME.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\PowerUp" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CustomizablePowerUp.cs" t="Include" />
+          <e p="PowerUpManager.cs" t="Include" />
+          <e p="PowerUpRotation.cs" t="Include" />
+          <e p="ScaleParticles.cs" t="Include" />
+          <e p="TakeablePowerUp.cs" t="Include" />
+          <e p="Utility" t="Include">
+            <e p="Singleton.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\ProCore" t="Include">
+        <e p="ProBuilder" t="Include">
+          <e p="About" t="Include">
+            <e p="changelog.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="pb_AboutWindow.cs" t="Include" />
+              <e p="pb_UpdateAvailable.cs" t="Include" />
+              <e p="pb_UpdateCheck.cs" t="Include" />
+              <e p="pb_VersionInfo.cs" t="Include" />
+              <e p="pb_VersionUtil.cs" t="Include" />
+            </e>
+            <e p="Font" t="Include">
+              <e p="SIL Open Font License.txt" t="Include" />
+            </e>
+            <e p="pc_AboutEntry_ProBuilder.txt" t="Include" />
+            <e p="ThirdPartyLicenses.txt" t="Include" />
+          </e>
+          <e p="API Examples" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ClearUnusedAttributes.cs" t="Include" />
+              <e p="CreateShadowObject.cs" t="Include" />
+              <e p="CustomAction.cs" t="Include" />
+              <e p="EditorCallbackViewer.cs" t="Include" />
+              <e p="RenameNewObjects.cs" t="Include" />
+              <e p="SetCustomUnwrapParams.cs" t="Include" />
+            </e>
+            <e p="Icosphere FFT" t="Include">
+              <e p="README.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="CameraControls.cs" t="Include" />
+                <e p="IcoBumpin.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Misc" t="Include">
+              <e p="HueCube.cs" t="Include" />
+            </e>
+            <e p="Procedural Mesh" t="Include">
+              <e p="ExtrudeRandomEdges.cs" t="Include" />
+            </e>
+            <e p="Runtime Editing" t="Include">
+              <e p="RuntimeEdit.cs" t="Include" />
+            </e>
+            <e p="Vertex Colors" t="Include">
+              <e p="HighlightNearestFace.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="Addons" t="Include">
+              <e p="pb_Fbx.cs" t="Include" />
+            </e>
+            <e p="MenuItems" t="Include">
+              <e p="Actions" t="Include">
+                <e p="pb_ExportObj.cs" t="Include" />
+                <e p="pb_GenerateUV2.cs" t="Include" />
+                <e p="pb_MakeMeshAsset.cs" t="Include" />
+                <e p="pb_ProBuilderize.cs" t="Include" />
+                <e p="pb_StripProBuilderScripts.cs" t="Include" />
+              </e>
+              <e p="Geometry" t="Include">
+                <e p="pb_BridgeEdges.cs" t="Include" />
+                <e p="pb_ConformNormals.cs" t="Include" />
+                <e p="pb_ConnectEdges.cs" t="Include" />
+                <e p="pb_DetachDeleteFace.cs" t="Include" />
+                <e p="pb_ExtrudeElement.cs" t="Include" />
+                <e p="pb_FlipEdge.cs" t="Include" />
+                <e p="pb_FlipNormals.cs" t="Include" />
+                <e p="pb_FreezeTransform.cs" t="Include" />
+                <e p="pb_MergeFaces.cs" t="Include" />
+                <e p="pb_SetPivot.cs" t="Include" />
+                <e p="pb_Triangulate.cs" t="Include" />
+                <e p="pb_VertexMergeWeld.cs" t="Include" />
+              </e>
+              <e p="Repair" t="Include">
+                <e p="pb_CleanLeakedMeshes.cs" t="Include" />
+                <e p="pb_ForceSceneRefresh.cs" t="Include" />
+                <e p="pb_RebuildMeshes.cs" t="Include" />
+                <e p="pb_RebuildSharedIndices.cs" t="Include" />
+                <e p="pb_RemoveDegenerateTris.cs" t="Include" />
+                <e p="pb_RepairColors.cs" t="Include" />
+                <e p="pb_RepairMeshReferences.cs" t="Include" />
+                <e p="pb_RepairUV.cs" t="Include" />
+                <e p="pb_ResetEntityMaterials.cs" t="Include" />
+                <e p="pb_UpgradeBasicToAdvanced.cs" t="Include" />
+              </e>
+              <e p="Selection" t="Include">
+                <e p="pb_EdgeSelection.cs" t="Include" />
+                <e p="pb_ExpandSelection.cs" t="Include" />
+                <e p="pb_InvertSelection.cs" t="Include" />
+                <e p="pb_MaterialSelection.cs" t="Include" />
+              </e>
+              <e p="Tools" t="Include">
+                <e p="pb_BooleanInterface.cs" t="Include" />
+                <e p="pb_MaterialSelection.cs" t="Include" />
+              </e>
+              <e p="Window" t="Include">
+                <e p="pb_ProBuilderMenuItems.cs" t="Include" />
+              </e>
+            </e>
+            <e p="pb_MenuItems.cs" t="Include" />
+            <e p="pb_MissingScriptEditor.cs" t="Include" />
+            <e p="pb_Preferences.cs" t="Include" />
+            <e p="pb_ScenePostProcessor.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Shader" t="Include">
+            <e p="DiffuseTextureBlend.shader" t="Include" />
+            <e p="DiffuseVertexColor.shader" t="Include" />
+            <e p="pb_FaceHighlight.shader" t="Include" />
+            <e p="pb_FacePicker.shader" t="Include" />
+            <e p="pb_HideVertices.shader" t="Include" />
+            <e p="pb_NormalPreview.shader" t="Include" />
+            <e p="pb_ReferenceUnlit.shader" t="Include" />
+            <e p="pb_ScrollHighlight.shader" t="Include" />
+            <e p="pb_SelectionPicker.shader" t="Include" />
+            <e p="pb_SmoothingPreview.shader" t="Include" />
+            <e p="pb_StandardVertexColor.shader" t="Include" />
+            <e p="pb_TransparentOverlay.shader" t="Include" />
+            <e p="pb_UnlitSolidColor.shader" t="Include" />
+            <e p="pb_UnlitVertexColor.shader" t="Include" />
+            <e p="pb_VertexPicker.shader" t="Include" />
+            <e p="pb_VertexShader.shader" t="Include" />
+          </e>
+        </e>
+        <e p="ProGrids" t="Include">
+          <e p="About" t="Include">
+            <e p="changelog.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="pg_AboutWindow.cs" t="Include" />
+            </e>
+            <e p="pc_AboutEntry_ProGrids.txt" t="Include" />
+          </e>
+          <e p="Classes" t="Include">
+            <e p="pg_Constant.cs" t="Include" />
+            <e p="pg_Enum.cs" t="Include" />
+            <e p="pg_IconUtility.cs" t="Include" />
+            <e p="pg_IgnoreSnapAttribute.cs" t="Include" />
+            <e p="pg_SceneMeshRender.cs" t="Include" />
+            <e p="pg_Util.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="pg_Editor.cs" t="Include" />
+            <e p="pg_GridRenderer.cs" t="Include" />
+            <e p="pg_ParameterWindow.cs" t="Include" />
+            <e p="pg_Preferences.cs" t="Include" />
+            <e p="pg_ToggleContent.cs" t="Include" />
+          </e>
+          <e p="MonoBehaviour" t="Include">
+            <e p="pg_IgnoreSnap.cs" t="Include" />
+          </e>
+          <e p="Shader" t="Include">
+            <e p="pg_GridShader.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\Scipts" t="Include">
+        <e p="CameraFollow.cs" t="Include" />
+        <e p="enemies" t="Include">
+          <e p="enemyAttack.cs" t="Include" />
+          <e p="EnemyHP.cs" t="Include" />
+          <e p="ghostController.cs" t="Include" />
+        </e>
+        <e p="player" t="Include">
+          <e p="PlayerContoller.cs" t="Include" />
+          <e p="PlayerHP.cs" t="Include" />
+          <e p="PlayerShooting.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Simple UI" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="OFL.txt" t="Include" />
+        </e>
+        <e p="Samples" t="Include">
+          <e p="IconPreview.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Weapons Pack(LOW POLY)" t="Include">
+        <e p="Weapons Pack info.txt" t="Include" />
+      </e>
+      <e p="Lesson2Blyad.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
