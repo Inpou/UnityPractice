@@ -5,9 +5,6 @@
     <e p="C:\Users\User\Desktop\PTU\Програмування\Практика\Unity\Lesson2Blyad" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets\EnemySpawnManager.cs" t="Include" />
-      <e p="Assets\GenerateBuffs.cs" t="Include" />
-      <e p="Assets\getExtraHP.cs" t="Include" />
       <e p="Assets\Imported&amp;Downloaded" t="Include">
         <e p="Particlecollection_Free samples" t="Include">
           <e p="Plugins" t="Include">
@@ -58,6 +55,7 @@
           <e p="Weapons Pack info.txt" t="Include" />
         </e>
       </e>
+      <e p="Assets\PointsManager.cs" t="Include" />
       <e p="Assets\ProCore" t="Include">
         <e p="ProBuilder" t="Include">
           <e p="About" t="Include">
@@ -223,6 +221,13 @@
           <e p="PlayerContoller.cs" t="Include" />
           <e p="PlayerHP.cs" t="Include" />
           <e p="PlayerShooting.cs" t="Include" />
+        </e>
+        <e p="spawn magagers" t="Include">
+          <e p="EnemySpawnManager.cs" t="Include" />
+          <e p="GenerateBuffs.cs" t="Include" />
+          <e p="getDoubleDamageBuff.cs" t="Include" />
+          <e p="getExtraHP.cs" t="Include" />
+          <e p="getShieldBuff.cs" t="Include" />
         </e>
       </e>
       <e p="Assets\Simple UI" t="Include">
